@@ -1,4 +1,4 @@
-Docker compose for Opensearch | Opensearch Dashboard | Minio environnement.
+Docker environnement for Opensearch | Opensearch Dashboard | Minio .
 
 
 Opensearch & Opensearch Dashboard v 2.18.0
